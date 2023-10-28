@@ -1,6 +1,6 @@
 # Welcome
 
-This project will explore getting started developing with [Python](https://www.python.org) as quickly as possible using [Visual Studio Code](https://code.visualstudio.com).
+This project used my starter repo at [https://github.com/TheRobBrennan/explore-python](https://github.com/TheRobBrennan/explore-python) as a foundation for following along with [Coding a Halloween Text Adventure Game in Python](https://code.likeagirl.io/coding-a-text-adventure-game-in-python-36f2a0fb1836).
 
 ## Local development
 

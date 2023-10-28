@@ -1,0 +1,22 @@
+{
+  "name": "halloween-2023-text-adventure",
+  "version": "0.0.0",
+  "description": "A text adventure game written in Python for Halloween 2023.",
+  "scripts": {
+    "setup": "clear && ./manage.sh setup",
+    "start": "clear && ./manage.sh start",
+    "test": "clear && ./manage.sh test",
+    "test:coverage": "clear && ./manage.sh test --coverage",
+    "destroy": "clear && ./manage.sh destroy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/halloween-2023-text-adventure.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/halloween-2023-text-adventure/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/halloween-2023-text-adventure#readme"
+}

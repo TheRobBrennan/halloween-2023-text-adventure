@@ -2,6 +2,14 @@
 
 This project used my starter repo at [https://github.com/TheRobBrennan/explore-python](https://github.com/TheRobBrennan/explore-python) as a foundation for following along with [Coding a Halloween Text Adventure Game in Python](https://code.likeagirl.io/coding-a-text-adventure-game-in-python-36f2a0fb1836).
 
+![](./__screenshots__/application-example-00.png)
+
+![](./__screenshots__/test-coverage-example-00.png)
+![](./__screenshots__/test-coverage-example-01.png)
+![](./__screenshots__/test-coverage-example-02.png)
+![](./__screenshots__/test-coverage-example-03.png)
+![](./__screenshots__/test-coverage-example-04.png)
+
 ## Local development
 
 If you are using Python for development, the `manage.sh` script provides several utility commands to streamline common tasks:

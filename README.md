@@ -4,6 +4,8 @@ This project used my starter repo at [https://github.com/TheRobBrennan/explore-p
 
 ![](./__screenshots__/application-example-00.png)
 
+![](./__screenshots__/test-coverage-cli-example-00.png)
+
 ![](./__screenshots__/test-coverage-example-00.png)
 ![](./__screenshots__/test-coverage-example-01.png)
 ![](./__screenshots__/test-coverage-example-02.png)

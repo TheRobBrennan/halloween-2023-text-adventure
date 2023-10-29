@@ -59,7 +59,7 @@ class TestGame(unittest.TestCase):
             main.select_path()
         mock_print.assert_has_calls([
             call("╭━━━━━━━━━━━━━━━Thanks for playing! Goodbye.━━━━━━━━━━━━━━╮"),
-            call("╰────────────────────────────────────────────────-────────╯")
+            call("╰─────────────────────────────────────────────────────────╯")
         ])
 
     # Test select_path function with invalid input
@@ -71,5 +71,5 @@ class TestGame(unittest.TestCase):
         mock_print.assert_has_calls([
             call("Invalid choice. Please select 'A' or 'q` to quit."),
             call("╭━━━━━━━━━━━━━━━Thanks for playing! Goodbye.━━━━━━━━━━━━━━╮"),
-            call("╰────────────────────────────────────────────────-────────╯")
+            call("╰─────────────────────────────────────────────────────────╯")
         ])

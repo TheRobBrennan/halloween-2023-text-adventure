@@ -33,7 +33,7 @@ def go_alone():
         "│  danced in the moonlight.                                                  │",
         "│  Darcy realized she wasn't alone. The legend of the Corpse Bride was all   │",
         "│  too real.                                                                 │",
-        "╰────────────────────────────────────────────────────────────────----────────╯"
+        "╰────────────────────────────────────────────────────────────────────────────╯"
     ]
 
     # Visual enhancements
@@ -47,11 +47,9 @@ def select_path():
     user_input = input("Will Darcy go alone (A) or quit (Q)? ").lower()
     if user_input == 'a':
         go_alone()
-    # elif user_input == 't':
-    #     bring_toby()
     elif user_input == 'q':
         print("╭━━━━━━━━━━━━━━━Thanks for playing! Goodbye.━━━━━━━━━━━━━━╮")
-        print("╰────────────────────────────────────────────────-────────╯")
+        print("╰─────────────────────────────────────────────────────────╯")
         return
     else:
         print("Invalid choice. Please select 'A' or 'q` to quit.")
